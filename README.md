@@ -1,1 +1,1 @@
-# eduLLM
+Chatbot anwering questions about indian univeristy curriculum.
