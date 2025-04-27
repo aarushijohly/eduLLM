@@ -1,1 +1,1 @@
-Chatbot anwering questions about indian univeristy curriculum.
+Chatbot anwering questions about Indian univeristy curriculum.
